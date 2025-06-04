@@ -26,4 +26,4 @@ Non sono richieste librerie esterne. Tutto è basato sulla libreria standard `tk
 1. Esegui lo script Python:
 
 ```bash
-python nomefile.py
+python IPCalculator.py
